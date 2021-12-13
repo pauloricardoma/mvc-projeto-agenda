@@ -3,9 +3,9 @@
   <p>Projeto para desenvolvimento de um appweb completo com back e front sendo trabalhados em um único conjunto</p>
 
 
-<h3>Link para o projeto</h3>
+<h3>Encaminhamento para o projeto</h3>
 
-  Deploy feito na Nuvem, com banco de dados mongoDB, somente para estudos e testes.
+  Deploy feito na Nuvem, com banco de dados mongoDB, somente para estudos e testes. Clicar no vídeo para o link.
 
 <p align='center'><a href='https://agenda.pauloricardoma.com.br'><img src='https://github.com/pauloricardoma/mvc-projeto-agenda/blob/master/src/views/includes/Imagens/agenda.gif?raw=true'></a></p>
 
